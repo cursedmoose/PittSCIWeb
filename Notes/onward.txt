@@ -1,0 +1,26 @@
+Guide to Getting Shit Done
+
+1. pete's home page is good, nearly finished, needs some final polish + functionality
+2. mitch's template is good, clean, open ended, and versatile.
+	recommend moving on this template for nearly everything now
+3. my template is great for pages outside of the scope of this project
+	originally I designed these to be a sort of page where frequent users would go to
+	this is much more easily implemented with the changes going forward, which are outside
+	the scope of this project
+	
+Gameplan:
+	for next week:
+	focus on Mitch's template
+		concerted effort for functionality (mobile) and ease of expansion
+		get some well coded classes and shit in there and stuff
+			seems pretty easy to modify what's there already
+		iterate upon this one design
+			it may seem sparse but will make for a very homogenous looking website
+				this is good for navigability - if you learn one page you learn them all
+	
+	afterwards:
+		final touches on pages
+		build actual sitemap
+		begin populating
+		create "going-forward" roadmap
+		
