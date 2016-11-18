@@ -82,12 +82,12 @@ body {
 	background-color: #cdb87c;
 }
 
-.content-row:nth-child(3n+1) btn {
+.content-row:nth-child(3n+1) a {
 	background-color: #cdb87c;
 }
 
 .content-row:nth-child(3n+1) a:hover {
-	background-color: rgb(202, 203, 154);
+	color: #1b3561;
 }
 
 
@@ -197,7 +197,7 @@ body {
 }
 
 .item-text a:hover {
-  color: rgb(202, 203, 154) !important;
+  color: rgb(202, 203, 154);
 }
 
 .btn-gold{
